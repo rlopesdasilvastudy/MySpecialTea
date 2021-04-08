@@ -2,3 +2,4 @@
 2. Adicionar chá
 3. Adicionar açúcar
 4. Servir
+5. Beber
